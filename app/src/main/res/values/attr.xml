@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="isGameOver" format="boolean"/>
+    <attr name="isWhitePlay" format="boolean"/>
+    <declare-styleable name="GobangPanel">
+        <!-- 判断游戏是否结束-->
+        <attr name="isGameOver" />
+        <!-- 判断是否是白棋下-->
+        <attr name="isWhitePlay"/>
+    </declare-styleable>
+
+</resources>

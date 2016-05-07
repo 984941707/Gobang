@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gobang</string>
+    <string name="restart">重来</string>
+    <string name="regret">悔棋</string>
+    <string name="again">再来一局</string>
+    <string name="cancel">不来了</string>
+</resources>
