@@ -1,6 +1,6 @@
 # Gobang
 
-<img src="https://github.com/InnoFang/Gobang/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" width="100px"/>
+<img src="https://github.com/InnoFang/Gobang/blob/master/app/src/main/res/drawable/gobang.png" height="100px" width="100px"/>
 
 一个可以计分的五子棋游戏
 
